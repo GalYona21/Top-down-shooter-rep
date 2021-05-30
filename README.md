@@ -1,2 +1,2 @@
 # Top-down-shooter-rep
-a game i made using unity
+A game for android i made using unity.
